@@ -1,0 +1,18 @@
+
+/* To style content in Assessment_html_part2 */
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    padding: 10px;
+	color: blue;
+}
+
+p {
+    font-size: 14px;
+}
+
+li {
+    list-style-type: disc; /*Bullet point style /*
+}

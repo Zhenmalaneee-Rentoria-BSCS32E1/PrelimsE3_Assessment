@@ -1,0 +1,7 @@
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\bin\Debug\Assessment_E3.exe.config
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\bin\Debug\Assessment_E3.exe
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\bin\Debug\Assessment_E3.pdb
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\obj\Debug\Assessment_E3.csproj.AssemblyReference.cache
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\obj\Debug\Assessment_E3.csproj.CoreCompileInputs.cache
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\obj\Debug\Assessment_E3.exe
+C:\Users\Shane\source\repos\Assessment_E3_Part1\Assessment_E3\obj\Debug\Assessment_E3.pdb
